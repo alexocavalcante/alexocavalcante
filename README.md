@@ -1,5 +1,5 @@
 ## Oi, eu sou o Alex de Oliveira, Desenvolvedor Senior de Programação!
-🔭 Atualmente estou trabalhando no Kotlin a Nível Avançado.
+🔭 Atualmente estou trabalhando no Kotlin e Python a Nível Avançado.
 <div align="center">
   <a href="https://github.com/alexocavalcante">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexocavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,6 +14,7 @@
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alex-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Alex-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Alex-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Alex-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img align="center" alt="Alex-Apple" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="Alex-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
