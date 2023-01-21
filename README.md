@@ -22,7 +22,6 @@
   <img align="center" alt="Alex-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Alex-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Alex-SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="right" alt="Alex-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/app/image_maker/1416302/icon_9jyPGoghiOL7Lm49.png">
 </div>
   
   ##
