@@ -1,5 +1,5 @@
 ## Oi, eu sou o Alex de Oliveira, Desenvolvedor Senior de Programação!
-🔭 Atualmente estou trabalhando no Kotlin e Python a Nível Avançado.
+🔭 Atualmente estou trabalhando com Javascript em nodejs, reactjs e mysql brincando de migrar um erp para web hehehe. Em desenvolvimento solo acredite!!!
 <div align="center">
   <a href="https://github.com/alexocavalcante">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexocavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
