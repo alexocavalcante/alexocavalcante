@@ -1,5 +1,12 @@
-## Oi, eu sou o Alex de Oliveira, Desenvolvedor Senior de Programação!
-🔭 Atualmente estou trabalhando com Javascript em nodejs, reactjs e mysql brincando de migrar um erp para web hehehe. Em desenvolvimento solo acredite!!!
+## Meu nome é Alex de Oliveira e sou um Desenvolvedor Senior de Programação com muitos anos de experiência no mercado. Minha paixão por tecnologia e programação começou cedo, e desde então tenho trabalhado em projetos de grande porte em diversas linguagens e plataformas.
+
+Atualmente, meu foco está em trabalhar com tecnologias Javascript, incluindo Node.js, React.js e MySQL. Estou empolgado em estar migrando um ERP para a web, e acredite, é um desafio bastante interessante. Estou trabalhando em desenvolvimento solo neste projeto, mas também tenho experiência em trabalhar em equipes e projetos colaborativos.
+
+Ao longo da minha carreira, desenvolvi habilidades em análise de dados, resolução de problemas e gestão de projetos. Estou sempre procurando maneiras de aprimorar minhas habilidades e aprender novas tecnologias e tendências em programação.
+
+Eu acredito em trabalhar de forma colaborativa e eficiente, e sou um defensor do código limpo e bem documentado. Sempre busco entender as necessidades dos meus clientes e parceiros de equipe para fornecer soluções de programação eficazes e eficientes.
+
+Se você está procurando um desenvolvedor confiável e experiente para ajudar a impulsionar o sucesso do seu projeto, entre em contato comigo. Será um prazer trabalhar com você e sua equipe para alcançar nossos objetivos de programação!
 <div align="center">
   <a href="https://github.com/alexocavalcante">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexocavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
