@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meu Perfil</title>
+</head>
+<body>
+  <div>
+    <pre>
 {
   "nome": "Alex de Oliveira Cavalcante",
   "endereco": {
@@ -185,7 +195,8 @@
     "Lei no 13.709/2018 Lei Geral de Proteção de Dados (LGPD)"
   ]
 }
-
+ </pre>
+  </div>
 <div align="center">
   <a href="https://github.com/alexocavalcante">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexocavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -220,3 +231,5 @@
   <a href="https://www.linkedin.com/in/alex-oliveira-777554120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+</body>
+</html>
