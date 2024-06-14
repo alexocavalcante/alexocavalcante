@@ -9,8 +9,7 @@
     "cep": "69047-180"
   },
   "contato": {
-    "email": "alex.ocavalcante@gmail.com",
-    "telefone": "(92) 99221-0670"
+    "email": "alex.ocavalcante@gmail.com"
   },
   "resumo": "Programador de Sistema de Informação com mais de 20 anos de experiência em desenvolvimento de software.",
   "formacao": [
