@@ -4,17 +4,26 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Meu Perfil</title>
+  <style>
+    /* Estilos para formatar o JSON */
+    .json-key {
+      color: red; /* Cor vermelha para os nomes dos campos */
+    }
+    .json-value {
+      color: green; /* Cor verde para os valores */
+    }
+  </style>
 </head>
 <body>
   <div>
     <pre>
-{
-  "nome": "Alex de Oliveira Cavalcante",
-  "endereco": {
-    "cidade": "Manaus",
-    "estado": "AM",
-    "cep": "69047-180"
-  },
+      {
+        <span class="json-key">"nome"</span>: <span class="json-value">"Alex de Oliveira Cavalcante"</span>,
+        <span class="json-key">"endereco"</span>: {
+        <span class="json-key">"cidade"</span>: <span class="json-value">"Manaus"</span>,
+        <span class="json-key">"estado"</span>: <span class="json-value">"AM"</span>,
+        <span class="json-key">"cep"</span>: <span class="json-value">"69047-180"</span>
+      },
   "contato": {
     "email": "alex.ocavalcante@gmail.com",
     "telefone": "(92) 99221-0670"
