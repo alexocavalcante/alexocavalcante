@@ -1,29 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu Perfil</title>
-  <style>
-    /* Estilos para formatar o JSON */
-    .json-key {
-      color: red; /* Cor vermelha para os nomes dos campos */
-    }
-    .json-value {
-      color: green; /* Cor verde para os valores */
-    }
-  </style>
-</head>
-<body>
-  <div>
-    <pre>
-      {
-        <span class="json-key">"nome"</span>: <span class="json-value">"Alex de Oliveira Cavalcante"</span>,
-        <span class="json-key">"endereco"</span>: {
-        <span class="json-key">"cidade"</span>: <span class="json-value">"Manaus"</span>,
-        <span class="json-key">"estado"</span>: <span class="json-value">"AM"</span>,
-        <span class="json-key">"cep"</span>: <span class="json-value">"69047-180"</span>
-      },
+# Meu Perfil
+
+```json
+{
+  "nome": "Alex de Oliveira Cavalcante",
+  "endereco": {
+    "cidade": "Manaus",
+    "estado": "AM",
+    "cep": "69047-180"
+  },
   "contato": {
     "email": "alex.ocavalcante@gmail.com",
     "telefone": "(92) 99221-0670"
@@ -204,8 +188,7 @@
     "Lei no 13.709/2018 Lei Geral de Proteção de Dados (LGPD)"
   ]
 }
- </pre>
-  </div>
+
 <div align="center">
   <a href="https://github.com/alexocavalcante">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alexocavalcante&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -238,7 +221,4 @@
   <a href="https://discord.gg/wsYdZjam" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:alex.ocavalcante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-oliveira-777554120/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
-</body>
-</html>
