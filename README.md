@@ -32,11 +32,6 @@
       "instituicao": "FUCAPI"
     },
     {
-      "nivel": "Intermediário",
-      "curso": "Inglês",
-      "instituicao": "FUCAPI"
-    },
-    {
       "nivel": "Bacharelado",
       "curso": "Engenharia Mecatrônica",
       "instituicao": "UNIP"
@@ -50,7 +45,7 @@
   ],
   "certificacoes": [
     {
-      "curso": "Certificação IBM DB2 ORACLE Comercial e Técnico",
+      "curso": "Certificação IBM DB2 Comercial e Técnico",
       "instituicao": "IBM",
       "data": "15/03/2012"
     },
